@@ -1,0 +1,22 @@
+[
+    {
+        "homes": 4500,
+        "county": "Multnomah"
+    },
+    {
+        "homes": 2700,
+        "county": "Clackamas"
+    },
+    {
+        "homes": 700,
+        "county": "Wasco"
+    },
+    {
+        "homes": 300,
+        "county": "Klamath"
+    },
+    {
+        "homes": 860,
+        "county": "Marion"
+    }
+]
